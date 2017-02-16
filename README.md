@@ -9,5 +9,8 @@ A simple unofficial [HackerNews](http://news.ycombinator.com) app, can be used t
 
 ### Screenshots
 
-![screenshot1](screenshot2.png)
-![screenshot1](screenshot1.png)
+<img src="screenshot2.png" width="350"/>
+<img src="screenshot1.png" width="350"/>
+
+### Download
+[Download Apk](https://github.com/shahzar/HNApp/raw/master/HNApp_v0.1.apk)
